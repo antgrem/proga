@@ -1,0 +1,10 @@
+\Program_FreeRTOS\MDK-ARM\Program_FreeRTOS Configuration\
+*.o
+*.elf
+*.crf
+*.o
+*.d
+*.lst
+Program_FreeRTOS/MDK-ARM/Program_FreeRTOS Configuration/Program_FreeRTOS Configuration.build_log.htm
+Program_FreeRTOS/MDK-ARM/Program_FreeRTOS Configuration/Program_FreeRTOS Configuration.sct
+Program_FreeRTOS/MDK-ARM/Program_FreeRTOS Configuration/Program_FreeRTOS_Program_FreeRTOS Configuration.dep
